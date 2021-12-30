@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juan Jofre
 - 👀 I’m interested in embedded programming and data 
-- 🌱 I’m currently learning assembly, c++, web dev and many more
+- 🌱 I’m currently learning assembly, c++, web dev and many more topics
 - 💞️ I’m looking to collaborate on electronic projects involving music
 - 📫 How to reach me: just email me at juanjofrelopez@gmail.com
 
