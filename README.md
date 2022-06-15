@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Juan Jofre
-- 👀 I’m interested in embedded programming and data 
-- 🌱 I’m currently learning assembly, c++, web dev and many more topics
+- 👀 I’m interested in embedded programming, data and financials 
+- 🌱 I’m currently learning stm32 μC family development
+-     I'm also learning web dev, in particullar the MERN stack, focusing on financial API's
+-     And many more topics...
 - 💞️ I’m looking to collaborate on electronic projects involving music
 - 📫 How to reach me: just email me at juanjofrelopez@gmail.com
 
