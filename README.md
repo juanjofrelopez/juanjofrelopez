@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Juan Jofre
 - 👀 I’m interested in financial engineering, statistics and embedded electronic projects  
 - 🌱 I’m currently learning AI computer vision strategies to implement with Intel RealSense 3D cameras
-- 💻 I'm also learning web dev, in particullar the MERN stack, focusing on financial API's ... 🚀 And many more topics 🚀
+- 💻 I'm also learning web dev, in particular the MERN stack, focusing on financial API's ... 🚀 And many more topics 🚀
 - 📫 How to reach me: just email me at juanjofrelopez@gmail.com
 
 <!---
