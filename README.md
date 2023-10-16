@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on computer vision algorithms<br>👯 I’m looking to collaborate on machine learning projects<br>🌱 I’m currently learning fullstack web dev and machine learning<br>⚡ Fun fact: I'm the best at my thing :D
+🔭 I’m currently working on computer vision algorithms<br>
+👯 I’m looking to collaborate on machine learning projects<br>
+🌱 I’m currently learning backend dev and financial derivatives<br>
+⚡ Fun fact:  :D
 
 
 ## 🌐 Socials:
