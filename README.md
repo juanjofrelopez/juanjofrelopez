@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on computer vision algorithms<br>
+🔭 I’m currently working as a FullStack developer on [Software On The Road](https://github.com/Software-On-The-Road)<br>
 👯 I’m looking to collaborate on machine learning projects<br>
 🌱 I’m currently learning backend dev and financial derivatives<br>
 ⚡ Fun fact:  :D
