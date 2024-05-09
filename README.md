@@ -6,7 +6,7 @@
 
 Here are my learning repos for:
 - [Design Patterns](https://github.com/juanjofrelopez/design-patterns)
-- [Statistical Learning]()
+- [Statistical Learning](https://github.com/juanjofrelopez/islp)
 
 
 ## 🌐 Socials:
