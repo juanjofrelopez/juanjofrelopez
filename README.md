@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working as a FullStack developer on [Software On The Road](https://github.com/Software-On-The-Road)<br>
 👯 I’m looking to collaborate on programming challenges related to finance<br>
-🌱 I’m currently learning [Design Patterns](https://github.com/juanjofrelopez/design-patterns), [System Design](https://github.com/donnemartin/system-design-primer) and [Swing Trading](https://www.goodreads.com/book/show/16189528-trade-like-a-stock-market-wizard) <br>
+🌱 I’m currently learning [Design Patterns](https://github.com/juanjofrelopez/design-patterns), [System Design](https://github.com/donnemartin/system-design-primer), [Statistical Learning methods](https://www.statlearning.com/) and [Swing Trading](https://www.goodreads.com/book/show/16189528-trade-like-a-stock-market-wizard) <br>
 ⚡ Fun fact:  I'm Fun yay! :D
 
 
