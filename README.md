@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a FullStack developer on [Software On The Road](https://github.com/Software-On-The-Road)<br>
+🔭 I’m currently working as a FullStack developer on [Develops Today](https://develops.today/)<br>
 👯 I’m looking to collaborate on programming challenges related to finance<br>
 🌱 I’m currently learning [Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/), [System Design](https://github.com/donnemartin/system-design-primer), [Statistical Learning](https://www.statlearning.com/) and [Swing Trading](https://www.goodreads.com/book/show/16189528-trade-like-a-stock-market-wizard) <br>
 ⚡ Here are my learning repos for:
